@@ -30,6 +30,7 @@ addheader("", filenamesof(
 		"./stdio.h",
 		"./stdlib.h",
 		"./string.h",
+		"./strings.h",
 		"./time.h",
 		"./unistd.h"
 	))

@@ -134,6 +134,7 @@ for _, plat in ipairs(vars.plats) do
 			"./core/string/memcpy.c",
 			"./core/string/memmove.c",
 			"./core/string/memset.c",
+			"./core/string/strcasecmp.c",
 			"./core/string/strcat.c",
 			"./core/string/strchr.c",
 			"./core/string/strcmp.c",
